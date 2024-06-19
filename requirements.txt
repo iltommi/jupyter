@@ -46,3 +46,5 @@ bqplot
 numpy
 scipy
 IPython
+bisect
+pyunwrap
